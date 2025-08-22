@@ -13,6 +13,13 @@ The primary goal was to:
 ---
 
 ## 🗂 Network Topology  
+
+
+
+Below is the multi-router, multi-site topology connecting Florida and California using EIGRP and VLAN segmentation:  
+
+![Network Topology](topology.png)
+
 The network consists of **five routers, multiple switches, and PCs** across two regions:  
 
 - **Florida Site (Router1)**  
